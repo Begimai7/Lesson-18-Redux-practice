@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Lesson-18-Redux-practice/static/css/main.f3f58000.css",
+    "main.js": "/Lesson-18-Redux-practice/static/js/main.f4ec2322.js",
+    "index.html": "/Lesson-18-Redux-practice/index.html",
+    "main.f3f58000.css.map": "/Lesson-18-Redux-practice/static/css/main.f3f58000.css.map",
+    "main.f4ec2322.js.map": "/Lesson-18-Redux-practice/static/js/main.f4ec2322.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3f58000.css",
+    "static/js/main.f4ec2322.js"
+  ]
+}
